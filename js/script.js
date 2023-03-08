@@ -2,7 +2,7 @@
 //
 // Created by: Ms Raffin
 // Created on: Mar 2022
-// Edited by David ukiri
+// Edited by David Ukiri
 // This file contains the JS functions for index.html
 
 function doMathClicked () {
