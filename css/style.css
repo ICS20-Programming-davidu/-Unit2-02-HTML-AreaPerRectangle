@@ -1,0 +1,21 @@
+/* Created by: Ms Raffin
+* Created on: Mar 2022
+* This CSS file defines the style for index.html
+* ICS2O-Unit2-01-HTML-JS-HelloWorld
+* Edited by David ukiri
+*/
+
+body {
+	background-color: skyblue;
+}
+
+h1 {
+	background-color: mediumpurple;
+	color: hsl(0, 0%, 0%);
+	padding: 40px;
+	text-align: center;
+}
+
+p {
+	background-color: #fff700;
+}
